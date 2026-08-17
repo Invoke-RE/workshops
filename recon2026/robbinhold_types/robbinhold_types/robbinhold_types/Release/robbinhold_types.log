@@ -1,0 +1,13 @@
+﻿Build started 2/19/2026 11:59:44 AM.
+     1>Project "C:\Users\jmag\Documents\Visual Studio 2013\Projects\robbinhold_types\robbinhold_types\robbinhold_types.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jmag\Documents\Visual Studio 2013\Projects\robbinhold_types\Release\robbinhold_types.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jmag\Documents\Visual Studio 2013\Projects\robbinhold_types\Release\robbinhold_types.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jmag\Documents\Visual Studio 2013\Projects\robbinhold_types\Release\robbinhold_types.lib" /MACHINE:X86 /SAFESEH Release\robbinhold_types.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         robbinhold_types.vcxproj -> C:\Users\jmag\Documents\Visual Studio 2013\Projects\robbinhold_types\Release\robbinhold_types.exe
+     1>Done Building Project "C:\Users\jmag\Documents\Visual Studio 2013\Projects\robbinhold_types\robbinhold_types\robbinhold_types.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.78
